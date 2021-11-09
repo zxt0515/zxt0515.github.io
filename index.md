@@ -1,37 +1,23 @@
-## Welcome to Xiangtian's Personal Pages
+# Welcome to Xiangtian's Personal Pages
 
-You can use the [editor on GitHub](https://github.com/zxt0515/xiangtianzheng.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+## Project Co-authored
+### A Cross-Domain Approach to Analyzing the Short-Run Impact of COVID-19 on the US Electricity Sector
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- **Summary**: We release a first-of-its-kind cross-domain open-access data hub, integrating data from across all existing US wholesale electricity markets with COVID-19 case, weather, mobile device location, and satellite imaging data. Leveraging cross-domain insights from public health and mobility data, we rigorously uncover a significant reduction in electricity consumption that is strongly correlated with the number of COVID-19 cases, degree of social distancing, and level of commercial activity.
+- **Citation**: Ruan, Guangchun, Dongqi Wu, **Xiangtian Zheng**, Haiwang Zhong, Chongqing Kang, Munther A. Dahleh, S. Sivaranjani, and Le Xie. "A cross-domain approach to analyzing the short-run impact of COVID-19 on the US electricity sector." Joule 4, no. 11 (2020): 2322-2337.
+- **Github repository**: [COVID-EMDA](https://github.com/tamu-engineering-research/COVID-EMDA)
+```
+### An Open-Source Extendable Model and Corrective Measure Assessment of the 2021 Texas Power Outage
+```markdown
+- **Summary**: We collaboratively release an open-source extendable model that is synthetic but nevertheless provides a realistic representation of the actual energy grid, accompanied by open-source cross-domain data sets. This simplified synthetic model is calibrated to the best of our knowledge based on published data resources. Building upon this open-source synthetic grid model, researchers could quantitatively assess the impact of various policies on mitigating the impact of such extreme events. As an example, in this paper we critically assess several corrective measures that could have mitigated the blackout under such extreme weather conditions. We uncover the regional disparity of load shedding. The analysis also quantifies the sensitivity of several corrective measures with respect to mitigating the severity of the power outage, as measured in Energy-not-Served (ENS).
+- **Citation**: Wu, Dongqi, **Xiangtian Zheng**, Yixing Xu, Daniel Olsen, Bainan Xia, Chanan Singh, and Le Xie. "An open-source extendable model and corrective measure assessment of the 2021 texas power outage." Advances in Applied Energy 4 (2021): 100056.
+- **Github repository**: [2021TXPowerOutage](https://github.com/tamu-engineering-research/2021TXPowerOutage)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### PSML: A Multi-scale Time-series Dataset for Machine Learning in Decarbonized Energy Grids
+```markdown
+- **Summary**: We present PSML, a first-of-its-kind open-access multi-scale time-series dataset, to aid in the development of data-driven machine learning (ML) based approaches towards reliable operation of future electric grids. The dataset is generated through a novel transmission + distribution (T+D) co-simulation designed to capture the increasingly important interactions and uncertainties of the grid dynamics, containing electric load, renewable generation, weather, voltage and current measurements at multiple spatio-temporal scales. Using PSML, we provide state-of-the-art ML baselines on three challenging use cases of critical importance to achieve: (i) early detection, accurate classification and localization of dynamic disturbance events; (ii) robust hierarchical forecasting of load and renewable energy with the presence of uncertainties and extreme events; and (iii) realistic synthetic generation of physical-law-constrained measurement time series. We envision that this dataset will enable advances for ML in dynamic systems, while simultaneously allowing ML researchers to contribute towards carbon-neutral electricity and mobility.
+- **Citation**: **Zheng, Xiangtian**, Nan Xu, Loc Trinh, Dongqi Wu, Tong Huang, S. Sivaranjani, Yan Liu, and Le Xie. "PSML: A Multi-scale Time-series Dataset for Machine Learning in Decarbonized Energy Grids." arXiv preprint arXiv:2110.06324 (2021).
+- **Github repository**: [Open-source-power-dataset](https://github.com/tamu-engineering-research/Open-source-power-dataset)
+```
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zxt0515/xiangtianzheng.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
