@@ -1,4 +1,3 @@
-# Welcome to Xiangtian's Personal Pages
 ## Key Research Interests
 - Power system dynamics
 - Domain knowledge-informed machine learning
