@@ -1,14 +1,7 @@
-<<<<<<< Updated upstream:index.md
-# Welcome to Xiangtian's Personal Page
-
-****************************TO BE FINISHED*****************************
-
-=======
 ---
 permalink: /project/
 title: "Project"
 ---
->>>>>>> Stashed changes:_pages/project.md
 ## Key Research Interests
 - Power system dynamics
 - Domain knowledge-informed machine learning
