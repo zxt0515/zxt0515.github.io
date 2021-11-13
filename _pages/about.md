@@ -8,4 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-##Research Interests
+I am a Ph.D. student 
+
+# Research Interests
+- power system dynamics
+- domain knowledge-informed machine learning
