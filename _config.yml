@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xiangtian Zheng"
   avatar           : "profile.png"
-  bio              : "Ph.D. student at TAMU. B.E. degree at Tsinghua."
+  bio              : "Ph.D. student at TAMU."
   location         : "College Station, TX, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=bMsx1yMAAAAJ&hl=en"
+  email            : "zxt0515@tamu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/zxt0515"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-2884-3213"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/xiangtian11"
   vine             :
   weibo            :
   xing             :
