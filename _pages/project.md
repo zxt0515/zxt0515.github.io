@@ -1,12 +1,18 @@
+<<<<<<< Updated upstream:index.md
 # Welcome to Xiangtian's Personal Page
 
 ****************************TO BE FINISHED*****************************
 
+=======
+---
+permalink: /project/
+title: "Project"
+---
+>>>>>>> Stashed changes:_pages/project.md
 ## Key Research Interests
 - Power system dynamics
 - Domain knowledge-informed machine learning
 
-## Project
 ### A Cross-Domain Approach to Analyzing the Short-Run Impact of COVID-19 on the US Electricity Sector [[COVID-EMDA](https://github.com/tamu-engineering-research/COVID-EMDA)]
 - **Summary**: We release a first-of-its-kind cross-domain open-access data hub, integrating data from across all existing US wholesale electricity markets with COVID-19 case, weather, mobile device location, and satellite imaging data. Leveraging cross-domain insights from public health and mobility data, we rigorously uncover a significant reduction in electricity consumption that is strongly correlated with the number of COVID-19 cases, degree of social distancing, and level of commercial activity.
 - **Citation**: Ruan, Guangchun, Dongqi Wu, **Xiangtian Zheng**, Haiwang Zhong, Chongqing Kang, Munther A. Dahleh, S. Sivaranjani, and Le Xie. "A cross-domain approach to analyzing the short-run impact of COVID-19 on the US electricity sector." Joule 4, no. 11 (2020): 2322-2337.
@@ -26,3 +32,4 @@ The numerical example on a large power grid suggests that this approach can  cre
     - **Zheng, Xiangtian**, Bin Wang, and Le Xie. "Synthetic dynamic PMU data generation: A generative adversarial network approach." In 2019 International Conference on Smart Grid Synchronized Measurements and Analytics (SGSMA), pp. 1-6. IEEE, 2019.
     - **Zheng, Xiangtian**, Bin Wang, Dileep Kalathil, and Le Xie. "Generative Adversarial Networks-Based Synthetic PMU Data Creation for Improved Event Classification." IEEE Open Access Journal of Power and Energy 8 (2021): 68-76.
     - **Zheng, Xiangtian**, Andrea Pinceti, Lalitha Sankar, and Le Xie. "Cross time-scale synthetic synchrophasor data creation: A Generative Adversarial Nets (GAN)-based Approach." working paper.
+
