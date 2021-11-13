@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## Key Research Interests
+# Key Research Interests
 - Power system dynamics
 - Domain knowledge-informed machine learning
