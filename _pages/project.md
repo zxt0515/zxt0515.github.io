@@ -2,9 +2,7 @@
 permalink: /project/
 title: "Project"
 ---
-## Key Research Interests
-- Power system dynamics
-- Domain knowledge-informed machine learning
+
 
 ### A Cross-Domain Approach to Analyzing the Short-Run Impact of COVID-19 on the US Electricity Sector [[COVID-EMDA](https://github.com/tamu-engineering-research/COVID-EMDA)]
 - **Summary**: We release a first-of-its-kind cross-domain open-access data hub, integrating data from across all existing US wholesale electricity markets with COVID-19 case, weather, mobile device location, and satellite imaging data. Leveraging cross-domain insights from public health and mobility data, we rigorously uncover a significant reduction in electricity consumption that is strongly correlated with the number of COVID-19 cases, degree of social distancing, and level of commercial activity.
