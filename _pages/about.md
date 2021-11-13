@@ -9,6 +9,5 @@ redirect_from:
 ---
 
 ## Key Research Interests
-==========================
 - Power system dynamics
 - Domain knowledge-informed machine learning
