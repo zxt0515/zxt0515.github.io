@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiangtian Zheng @ TAMU"
+title                    : "Xiangtian Zheng"
 title_separator          : "-"
 name                     : &name "Xiangtian Zheng"
 description              : &description "Ph.D. student @ TAMU"
