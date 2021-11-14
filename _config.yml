@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xiangtian Zheng"
   avatar           : "profile.png"
-  bio              : "Ph.D. student at TAMU. Graduated from Tsinghua University."
+  bio              : "Ph.D. student at TAMU."
   location         : "Location"
   employer         :
   pubmed           : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/zxt0515"
+  github           : "zxt0515"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/Xiangtian11"
+  twitter          : "Xiangtian11"
   vine             :
   weibo            :
   xing             :
