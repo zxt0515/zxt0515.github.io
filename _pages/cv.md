@@ -17,14 +17,14 @@ Education
 Work experience
 ======
 * Summer 2019: Research Assistant
-  * PJM
-  * Duties included: Machine learing-based Bidding Anomaly Detection in Financial Transmission Right (FTR) Market
-  * Supervisor: Rami Dirani
+  * ***Company***: PJM
+  * ***Duties included***: Machine learing-based Bidding Anomaly Detection in Financial Transmission Right Markets
+  * ***Supervisor***: Rami Dirani
 
 * Summer 2021: Research Assistant
-  * Mitsubish Electric Research Laboratory (MERL)
-  * Duties included: 
-  * Supervisor: Dr. Dehong Liu
+  * ***Company***: Mitsubish Electric Research Laboratory (MERL)
+  * ***Duties included***: Interpretable Learning-based Electric Motor Eccentricity Estimation
+  * ***Supervisor***: Dr. Dehong Liu
   
 Skills
 ======
@@ -52,4 +52,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer of *Nature Energy*, *Joule*, *IEEE Transactions on Smart Grid*, *International Journal of Electrical Power and Energy Systems*, *CSEE Journal of Power and Energy Systems*, *American Control Conference* and etc.
