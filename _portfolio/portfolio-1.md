@@ -1,5 +1,5 @@
 ---
-title: "Short-term Impacts of COVIO-19 on Electricity Sector"
+title: "Short-term Impacts of COVID-19 on Electricity Sector"
 excerpt: "Investigation on power sector against an unprecedented event.<br/><img src='/images/COVID_project.jpg' alt='drawing' width='500'/>"
 collection: portfolio
 ---
