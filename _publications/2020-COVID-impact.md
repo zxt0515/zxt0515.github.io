@@ -1,10 +1,10 @@
 ---
 title: "Paper Title Number 2"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2020-COVID-imapct
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+date: 2020-11-01
+venue: 'Joule'
 paperurl: 'http://academicpages.github.io/files/COVID_impacts.pdf'
 citation: 'Ruan, Guangchun, Dongqi Wu, Xiangtian Zheng, Haiwang Zhong, Chongqing Kang, Munther A. Dahleh, S. Sivaranjani, and Le Xie. "A cross-domain approach to analyzing the short-run impact of COVID-19 on the US electricity sector." Joule 4, no. 11 (2020): 2322-2337.'
 ---
