@@ -1,5 +1,5 @@
 ---
-title: "Physical and Economical Operations of Sustainable Energy Systems"
+title: "ECEN 415/715 Physical and Economical Operations of Sustainable Energy Systems"
 collection: teaching
 type: "Undergraduate and graduate course"
 permalink: /teaching/2021-spring-teaching-1
