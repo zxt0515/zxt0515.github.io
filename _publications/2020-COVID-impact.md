@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "A cross-domain approach to analyzing the short-run impact of COVID-19 on the US electricity sector"
 collection: publications
 permalink: /publication/2020-COVID-imapct
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
