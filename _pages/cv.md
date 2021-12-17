@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Department of Electrical Engineering, Tsinghua University, 2017
-* Ph.D in Department of Electrical and Computer Engineering, Texas A&M University, 2023 (expected)
+* Ph.D in Electrical Engineering, Texas A&M University, 2023 (expected)
+* B.S. in Electrical Engineering, Tsinghua University, 2017
 
 Work experience
 ======
