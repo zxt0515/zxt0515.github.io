@@ -17,14 +17,14 @@ Education
 Work experience
 ======
 * Summer 2019: Research Assistant
-  * *Company*: PJM
-  * *Duties included*: Machine learing-based Bidding Anomaly Detection in Financial Transmission Right Markets
-  * *Supervisor*: Rami Dirani
+  * Company: *PJM*
+  * Duties included: *Machine learning-based Bidding Anomaly Detection in Financial Transmission Right Markets*
+  * Supervisor: *Rami Dirani*
 
 * Summer 2021: Research Assistant
-  * *Company*: Mitsubish Electric Research Laboratory (MERL)
-  * *Duties included*: Interpretable Learning-based Electric Motor Eccentricity Estimation
-  * *Supervisor*: Dr. Dehong Liu
+  * Company: *Mitsubish Electric Research Laboratory (MERL)*
+  * Duties included: *Interpretable Learning-based Electric Motor Eccentricity Estimation*
+  * Supervisor: *Dr. Dehong Liu*
   
 Skills
 ======
