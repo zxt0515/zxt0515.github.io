@@ -2,7 +2,7 @@
 title: "A cross-domain approach to analyzing the short-run impact of COVID-19 on the US electricity sector"
 collection: publications
 permalink: /publication/2020-COVID-imapct
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This paper releases a first-of-its-kind cross-domain open-access data hub, integrating data from across all existing US wholesale electricity markets with other cross-domain data. This paper uncovers a significant reduction in electricity consumption that is strongly correlated with the number of COVID-19 cases, degree of social distancing, and level of commercial activity.'
 date: 2020-11-01
 venue: 'Joule'
 paperurl: 'http://zxt0515.github.io/files/COVID_impacts.pdf'
