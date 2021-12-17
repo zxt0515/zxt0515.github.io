@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "An open-source extendable model and corrective measure assessment of the 2021 texas power outage"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Ruan, Guangchun, Dongqi Wu, Xiangtian Zheng, Haiwang Zhong, Chongqing Kang, Munther A. Dahleh, S. Sivaranjani, and Le Xie. "A cross-domain approach to analyzing the short-run impact of COVID-19 on the US electricity sector." Joule 4, no. 11 (2020): 2322-2337.'
+permalink: /publication/2021-Texas-outage
+excerpt: 'This paper releases an open-source extendable model that is synthetic but nevertheless provides a realistic representation of the actual energy grid, accompanied by open-source cross-domain data sets. This paper uncovers the regional disparity of load shedding and quantitatively assesses several corrective measures that could have mitigated the blackout under such extreme weather conditions.'
+date: 2021-07-01
+venue: 'Advances in Applied Energy'
+paperurl: 'http://zxt0515.github.io/files/Texas_outage.pdf'
+citation: 'Wu, Dongqi, Xiangtian Zheng, Yixing Xu, Daniel Olsen, Bainan Xia, Chanan Singh, and Le Xie. "An open-source extendable model and corrective measure assessment of the 2021 texas power outage." Advances in Applied Energy 4 (2021): 100056.'
 ---
-The novel coronavirus disease (COVID-19) has rapidly spread around the globe in 2020, with the US becoming the epicenter of COVID-19 cases since late March. As the US begins to gradually resume economic activity, it is imperative for policymakers and power system operators to take a scientific approach to understanding and predicting the impact on the electricity sector. Here, we release a first-of-its-kind cross-domain open-access data hub, integrating data from across all existing US wholesale electricity markets with COVID-19 case, weather, mobile device location, and satellite imaging data. Leveraging cross-domain insights from public health and mobility data, we rigorously uncover a significant reduction in electricity consumption that is strongly correlated with the number of COVID-19 cases, degree of social distancing, and level of commercial activity.
+- **Abstract.**
+Unprecedented winter storms that hit across Texas in February 2021 have caused at least 69 deaths and 4.5 million customer interruptions due to the wide-ranging generation capacity outage and record-breaking electricity demand. While much remains to be investigated on what, how, and why such wide-spread power outages occurred across Texas, it is imperative for the broader macro energy community to develop insights for policy making based on a coherent electric grid model and data set. In this paper, we collaboratively release an open-source extendable model that is synthetic but nevertheless provides a realistic representation of the actual energy grid, accompanied by open-source cross-domain data sets. This simplified synthetic model is calibrated to the best of our knowledge based on published data resources. Building upon this open-source synthetic grid model, researchers could quantitatively assess the impact of various policies on mitigating the impact of such extreme events. As an example, in this paper we critically assess several corrective measures that could have mitigated the blackout under such extreme weather conditions. We uncover the regional disparity of load shedding. The analysis also quantifies the sensitivity of several corrective measures with respect to mitigating the severity of the power outage, as measured in Energy-not-Served (ENS). This approach and methodology are generalizable for other regions experiencing significant energy portfolio transitions.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Ruan, Guangchun, Dongqi Wu, Xiangtian Zheng, Haiwang Zhong, Chongqing Kang, Munther A. Dahleh, S. Sivaranjani, and Le Xie. "A cross-domain approach to analyzing the short-run impact of COVID-19 on the US electricity sector." Joule 4, no. 11 (2020): 2322-2337.
+- **Paper.** [Download paper here](http://zxt0515.github.io/files/Texas_outage.pdf)
