@@ -1,5 +1,5 @@
 ---
-title: "Power market"
+title: "Physical and Economical Operations of Sustainable Energy Systems"
 collection: teaching
 type: "Undergraduate and graduate course"
 permalink: /teaching/2021-spring-teaching-1
@@ -8,13 +8,4 @@ date: 2021-01-15
 location: "College Station, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This course aims to introduce undergraduate students the operational issues for sustainable electric energy systems. The first part of the course will introduce basic engineering, optimization and economic concepts relevant to this course. The second part of the course will discuss the “modular” view of individual electric energy processing components (e.g., variable generation, flexible demands). The third part of this course will physical and market operations in electricity industry in support of sustainable energy integration. Computer simulations and demos will be available for students to create and evaluate examples of power systems.
