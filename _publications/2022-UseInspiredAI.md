@@ -1,0 +1,14 @@
+---
+title: "Massively Digitized Power Grid: Opportunities and Challenges of Use-inspired AI"
+collection: publications
+permalink: /publication/2022-UseInspiredAI
+excerpt: 'This article presents a use-inspired perspective of the opportunities and challenges in a massively digitized power grid. It argues that the intricate interplay of data availability, computing capability, and artificial intelligence (AI) algorithm development are the three key factors driving the adoption of digitized solutions in the power grid. The impact of these three factors on critical functions of power system operation and planning practices are reviewed and illustrated with industrial practice case studies. Open challenges and research opportunities for data, computing, and AI algorithms are articulated within the context of the power industry's tremendous decarbonization efforts.'
+date: 2022-05-30
+venue: 'Proceeding of the IEEE'
+paperurl: 'http://zxt0515.github.io/files/UseInspiredAI.pdf'
+citation: 'Xie, Le, Xiangtian Zheng, Yannan Sun, Tong Huang, and Tony Bruton. "Massively Digitized Power Grid: Opportunities and Challenges of Use-inspired AI." arXiv preprint arXiv:2205.05180 (2022).'
+---
+- **Abstract.**
+This article presents a use-inspired perspective of the opportunities and challenges in a massively digitized power grid. It argues that the intricate interplay of data availability, computing capability, and artificial intelligence (AI) algorithm development are the three key factors driving the adoption of digitized solutions in the power grid. The impact of these three factors on critical functions of power system operation and planning practices are reviewed and illustrated with industrial practice case studies. Open challenges and research opportunities for data, computing, and AI algorithms are articulated within the context of the power industry's tremendous decarbonization efforts.
+
+- **Paper.** [Download paper here](http://zxt0515.github.io/files/UseInspiredAI.pdf)
